@@ -28,6 +28,9 @@
   - [D3 チュートリアル日本語版 目次](https://observablehq.com/@sugi2000/d3/2)
 - [Introduction to Data](https://observablehq.com/@sugi2000/introduction-to-data-japanese) Observableでのデータのとりあつかい方
 
+- [Dear Data](https://www.dear-data.com/)
+- [日経ビジュアルデータ：日本経済新聞](https://vdata.nikkei.com/)
+
 ## Schedule
 
 - 2019ｰ10-04　Day 1 Orientation
