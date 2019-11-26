@@ -32,8 +32,9 @@ D3.js and Observable
 Data drawing
 - [Dear Data](https://www.dear-data.com/)
 
-Data Journalism
+Visualization example
 - [日経ビジュアルデータ：日本経済新聞](https://vdata.nikkei.com/)
+- [ギャラリー | Tableau Public](https://public.tableau.com/ja-jp/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
 
 Statistical data
 - [RESAS 地域経済分析システム](https://resas.go.jp/)
