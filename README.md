@@ -41,6 +41,9 @@ Statistical data
 - [e-Stat 政府統計の総合窓口](https://www.e-stat.go.jp/)
 - [DATA GO JP](https://www.data.go.jp/)
 
+Interview
+-　[「問題意識がファクトを生む」　上野千鶴子氏 社会学者　　:日本経済新聞](https://www.nikkei.com/article/DGXMZO46128880U9A610C1I10000/)
+
 ## Schedule
 
 - 2019ｰ10-04　Day 1 Orientation
