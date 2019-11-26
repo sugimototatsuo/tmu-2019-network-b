@@ -24,12 +24,21 @@
 
 ## Resources
 
+D3.js and Observable
 - [D3 チュートリアル日本語版](https://observablehq.com/collection/@sugi2000/d3)
   - [D3 チュートリアル日本語版 目次](https://observablehq.com/@sugi2000/d3/2)
 - [Introduction to Data](https://observablehq.com/@sugi2000/introduction-to-data-japanese) Observableでのデータのとりあつかい方
 
+Data drawing
 - [Dear Data](https://www.dear-data.com/)
+
+Data Journalism
 - [日経ビジュアルデータ：日本経済新聞](https://vdata.nikkei.com/)
+
+Statistical data
+- [RESAS 地域経済分析システム](https://resas.go.jp/)
+- [e-Stat 政府統計の総合窓口](https://www.e-stat.go.jp/)
+- [DATA GO JP](https://www.data.go.jp/)
 
 ## Schedule
 
