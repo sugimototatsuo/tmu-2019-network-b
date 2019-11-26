@@ -6,6 +6,20 @@
 
 - Porting D3 project from drawing
 
+  - [personal_data_visualization](https://observablehq.com/@makoto-watanabe0909/personal_data_visualization)
+  - [My Cutlery Data](https://observablehq.com/@yukokano/untitled)
+  - [カトラリーデータ](https://observablehq.com/@miyazaki-yuko/untitled)
+  - [table](https://observablehq.com/@sakataakari/sample)
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+
 ## Final project: Social Visualization
 
 ## Resources
