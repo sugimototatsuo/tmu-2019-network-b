@@ -24,7 +24,8 @@
 
 ## Resources
 
-- [D3チュートリアル](https://observablehq.com/collection/@sugi2000/d3)
+- [D3 チュートリアル日本語版](https://observablehq.com/collection/@sugi2000/d3)
+  - [D3 チュートリアル日本語版 目次](https://observablehq.com/@sugi2000/d3/2)
 - [Introduction to Data](https://observablehq.com/@sugi2000/introduction-to-data-japanese) Observableでのデータのとりあつかい方
 
 ## Schedule
