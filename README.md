@@ -1,5 +1,18 @@
 # tmu-2019-network-b
 
+## First project: Personal Visualization
+
+- Data drawing
+
+- Porting D3 project from drawing
+
+## Final project: Social Visualization
+
+## Resources
+
+- [D3チュートリアル](https://observablehq.com/collection/@sugi2000/d3)
+- [Introduction to Data](https://observablehq.com/@sugi2000/introduction-to-data-japanese) Observableでのデータのとりあつかい方
+
 ## Schedule
 
 - 2019ｰ10-04　Day 1 Orientation
