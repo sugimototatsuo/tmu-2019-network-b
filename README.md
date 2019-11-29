@@ -9,10 +9,10 @@
 
 - Porting D3 project from drawing
 
-  - [personal_data_visualization](https://observablehq.com/@makoto-watanabe0909/personal_data_visualization)
-  - [My Cutlery Data](https://observablehq.com/@yukokano/untitled)
-  - [カトラリーデータ](https://observablehq.com/@miyazaki-yuko/untitled)
-  - [table](https://observablehq.com/@sakataakari/sample)
+  - [personal_data_visualization / makoto-watanabe0909 / Observable](https://observablehq.com/@makoto-watanabe0909/personal_data_visualization)
+  - [My Cutlery Data / 加能 侑生子 / Observable](https://observablehq.com/@yukokano/untitled)
+  - [カトラリーデータ / miyazaki-yuko / Observable](https://observablehq.com/@miyazaki-yuko/untitled)
+  - [table / sakataakari / Observable](https://observablehq.com/@sakataakari/sample)
   - [cutlery / ayane-ima / Observable](https://observablehq.com/@ayane-ima/cutlery)
   - [My Data / rie-kojima / Observable](https://observablehq.com/@rie-kojima/my-data)
   - [TableWare / amanekatano / Observable](https://observablehq.com/@amanekatano/tableware)
