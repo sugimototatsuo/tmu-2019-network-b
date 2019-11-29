@@ -20,7 +20,7 @@
   - []()
   - []()
 
-## Final project: Social Visualization
+## [Final project: Social Visualization](https://github.com/sugimototatsuo/tmu-2019-network-b/blob/master/Final-project.md)
 
 ## Resources
 
