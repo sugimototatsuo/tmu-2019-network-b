@@ -16,11 +16,16 @@
 ## Storytelling
 
 - 問いと事実を丁寧に解説する。
+事実は、調べて判明したことを明らかにする。
 データを見やすくするが、その解釈は読者にゆだねる。
 ひとつの解釈・意見を押しつけないように注意。
+ジャーナリストの心持ちで。
 
 - テキスト＋ビジュアルのバランスをとること。
 - ビジュアルは複数でもよい。
+
+- [The Voting Habits of Americans Like You - The New York Times](https://www.nytimes.com/interactive/2016/06/10/upshot/voting-habits-turnout-partisanship.html) アメリカ人の投票行動
+[Money, Race and Success: How Your School District Compares - The New York Times](https://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html)　学区による成績のちがい
 
 ## Technical Regulations
 
