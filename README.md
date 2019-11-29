@@ -1,5 +1,8 @@
 # tmu-2019-network-b
 
+### 2019年度後期 ネットワークデザイン演習B・実習B（首都大学東京）
+### 2019年度後期 情報デザインIII（佐賀大学）
+
 ## First project: Personal Visualization
 
 - Data drawing
@@ -42,7 +45,7 @@ Statistical data
 - [DATA GO JP](https://www.data.go.jp/)
 
 Interview
--　[「問題意識がファクトを生む」　上野千鶴子氏 社会学者　　:日本経済新聞](https://www.nikkei.com/article/DGXMZO46128880U9A610C1I10000/)
+- [「問題意識がファクトを生む」　上野千鶴子氏 社会学者　　:日本経済新聞](https://www.nikkei.com/article/DGXMZO46128880U9A610C1I10000/)
 
 ## Schedule
 
