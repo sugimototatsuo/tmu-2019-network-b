@@ -28,6 +28,7 @@ Examples:
 
 - [The Voting Habits of Americans Like You - The New York Times](https://www.nytimes.com/interactive/2016/06/10/upshot/voting-habits-turnout-partisanship.html) アメリカ人の投票行動
 - [Money, Race and Success: How Your School District Compares - The New York Times](https://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html)　学区による成績のちがい
+- [A Sliver of the Electorate Could Decide 2020. Here’s What These Voters Want. - The New York Times](https://www.nytimes.com/2019/11/05/upshot/swing-voters-2020-election.html)
 
 ## Technical Regulations
 
