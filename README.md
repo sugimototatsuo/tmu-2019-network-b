@@ -60,12 +60,12 @@ TMU
 - 2019ｰ11-15　Day 7
 - 2019ｰ11-22　Day 8
 - 2019ｰ11-29　Day 9
-- 2019ｰ12-06　Day 10
-- 2019ｰ12-13　Day 11
+- 2019ｰ12-06　Day 10　First project D3 edition presentation
+- 2019ｰ12-13　Day 11　Final project
 - 2019ｰ12-20　Day 12
 - 2020ｰ01-10　Day 13
 - 2020ｰ01-24　Day 14
-- 2020ｰ01-31　Day 15　Wrap up
+- 2020ｰ01-31　Day 15　Final presentation, Wrap up
 
 SAGA-U
 - 2019-10-23　Day 1
