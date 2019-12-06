@@ -1,7 +1,7 @@
 # tmu-2019-network-b
 
-### 2019年度後期 ネットワーク演習B・実習B（首都大学東京）
-### 2019年度後期 情報デザインIII（佐賀大学）
+2019年度後期 ネットワーク演習B・実習B（首都大学東京 システムデザイン学部）
+2019年度後期 情報デザインIII（佐賀大学 芸術地域デザイン学部）
 
 ## First project: Personal Visualization
 
@@ -37,7 +37,8 @@ Data drawing
 
 Visualization example
 - [日経ビジュアルデータ：日本経済新聞](https://vdata.nikkei.com/)
-- [ギャラリー | Tableau Public](https://public.tableau.com/ja-jp/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
+- [ギャラリー | Tableau Public](https://public.tableau.com/ja-jp/gallery/)
+- [Reuters Graphics](https://graphics.reuters.com/)
 
 Statistical data
 - [RESAS 地域経済分析システム](https://resas.go.jp/)
