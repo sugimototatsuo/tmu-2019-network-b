@@ -18,12 +18,21 @@
   - [TableWare / amanekatano / Observable](https://observablehq.com/@amanekatano/tableware)
   - [SVG_homework / kisa-nkzw113 / Observable](https://observablehq.com/@kisa-nkzw113/svg_homework)
   - [Hara's Cutlery / 原佑一 / Observable](https://observablehq.com/@yu1hara777/haras-cutlery)
-  - []()
-  - []()
+  - [カトラリーと食器まとめ / Yua Akimoto / Observable](https://observablehq.com/@ykumanekoy/untitled)
   - []()
   - []()
 
 ## [Final project: Social Visualization](https://github.com/sugimototatsuo/tmu-2019-network-b/blob/master/Final-project.md)
+
+- [social_data_visualization / makoto-watanabe0909 / Observable](https://observablehq.com/@makoto-watanabe0909/social_data_visualization)
+- [Final Assignment / 加能 侑生子 / Observable](https://observablehq.com/@yukokano/final-assignment)
+- [Final Project / Yua Akimoto / Observable](https://observablehq.com/@ykumanekoy/final-project)
+- [Women In Japan / miyazaki-yuko / Observable](https://observablehq.com/@miyazaki-yuko/women-in-japan)
+- [final project / amanekatano / Observable](https://observablehq.com/@amanekatano/final-project)
+- [final_project / sakataakari / Observable](https://observablehq.com/@sakataakari/final_project)
+- [final_project / kisa-nkzw113 / Observable](https://observablehq.com/@kisa-nkzw113/untitled)
+- [Final-deadline1/24- / ayane-ima / Observable](https://observablehq.com/@ayane-ima/fainal-1-24)
+- https://observablehq.com/@yu1hara777/final-assignment
 
 ## Resources
 
