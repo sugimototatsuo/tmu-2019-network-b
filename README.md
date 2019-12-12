@@ -32,7 +32,9 @@
 - [final_project / sakataakari / Observable](https://observablehq.com/@sakataakari/final_project)
 - [final_project / kisa-nkzw113 / Observable](https://observablehq.com/@kisa-nkzw113/untitled)
 - [Final-deadline1/24- / ayane-ima / Observable](https://observablehq.com/@ayane-ima/fainal-1-24)
-- https://observablehq.com/@yu1hara777/final-assignment
+- [Final Assignment / 原佑一 / Observable](https://observablehq.com/@yu1hara777/final-assignment)
+- [Homework 1/14 / aklp0002 / Observable](https://observablehq.com/@aklp0002/homework-1-14)
+- 
 
 ## Resources
 
