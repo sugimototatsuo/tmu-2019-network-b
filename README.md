@@ -19,8 +19,8 @@
   - [SVG_homework / kisa-nkzw113 / Observable](https://observablehq.com/@kisa-nkzw113/svg_homework)
   - [Hara's Cutlery / 原佑一 / Observable](https://observablehq.com/@yu1hara777/haras-cutlery)
   - [カトラリーと食器まとめ / Yua Akimoto / Observable](https://observablehq.com/@ykumanekoy/untitled)
-  - []()
-  - []()
+  - [D3 homework 12/4 re4 / aklp0002 / Observable](https://observablehq.com/@aklp0002/d3-homework-12-4-re4)
+  - [D3 homework_2 / ayafkmt / Observable](https://observablehq.com/@ayafkmt/d3-homework_2)
 
 ## [Final project: Social Visualization](https://github.com/sugimototatsuo/tmu-2019-network-b/blob/master/Final-project.md)
 
