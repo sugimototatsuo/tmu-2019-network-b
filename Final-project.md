@@ -33,6 +33,7 @@ Examples:
 - [The Voting Habits of Americans Like You - The New York Times](https://www.nytimes.com/interactive/2016/06/10/upshot/voting-habits-turnout-partisanship.html) アメリカ人の投票行動
 - [Money, Race and Success: How Your School District Compares - The New York Times](https://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html)　学区による成績のちがい
 - [A Sliver of the Electorate Could Decide 2020. Here’s What These Voters Want. - The New York Times](https://www.nytimes.com/2019/11/05/upshot/swing-voters-2020-election.html)　投票者の意向調査
+- [Why Are so Many Babies Born around 8:00 A.M.? - Scientific American Blog Network](https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/) 朝8時ごろに生まれる赤ちゃんはどうして多いのか　円周上の時系列データの可視化
 
 ## Technical Regulations
 
