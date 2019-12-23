@@ -34,7 +34,7 @@
 - [Final-deadline1/24- / ayane-ima / Observable](https://observablehq.com/@ayane-ima/fainal-1-24)
 - [Final Assignment / 原佑一 / Observable](https://observablehq.com/@yu1hara777/final-assignment)
 - [Homework 1/14 / aklp0002 / Observable](https://observablehq.com/@aklp0002/homework-1-14)
-- 
+- [Peak of Korean boom in Japan / ayafkmt / Observable](https://observablehq.com/@ayafkmt/peak-of-korean-boom-in-japan)
 
 ## Resources
 
