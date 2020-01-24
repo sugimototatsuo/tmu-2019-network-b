@@ -28,11 +28,11 @@
   - [Why are analog records popular in these days? / makoto-watanabe0909 / Observable](https://observablehq.com/@makoto-watanabe0909/why-are-analog-records-popular-in-these-days)
   - [Women In Japan / miyazaki-yuko / Observable](https://observablehq.com/@miyazaki-yuko/women-in-japan)
   - [train incidents / kisa-nkzw113 / Observable](https://observablehq.com/@kisa-nkzw113/train-incidents)
+  - [The relationship between Johnny's and the Japanese economy / ayane-ima / Observable](https://observablehq.com/@ayane-ima/the-relationship-between-johnnys-and-the-japanese-economy)
   - [Final Assignment / 加能 侑生子 / Observable](https://observablehq.com/@yukokano/final-assignment)
   - [Final Project / Yua Akimoto / Observable](https://observablehq.com/@ykumanekoy/final-project)
   - [final project / amanekatano / Observable](https://observablehq.com/@amanekatano/final-project)
   - [final_project / sakataakari / Observable](https://observablehq.com/@sakataakari/final_project)
-  - [Final-deadline1/24- / ayane-ima / Observable](https://observablehq.com/@ayane-ima/fainal-1-24)
   - [Final Assignment / 原佑一 / Observable](https://observablehq.com/@yu1hara777/final-assignment)
 
 - SAGA-U
