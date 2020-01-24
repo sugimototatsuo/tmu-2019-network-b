@@ -24,7 +24,7 @@
 
 ## [Final project: Social Visualization](https://github.com/sugimototatsuo/tmu-2019-network-b/blob/master/Final-project.md)
 
-- [social_data_visualization / makoto-watanabe0909 / Observable](https://observablehq.com/@makoto-watanabe0909/social_data_visualization)
+- [Why are analog records popular in these days? / makoto-watanabe0909 / Observable](https://observablehq.com/@makoto-watanabe0909/why-are-analog-records-popular-in-these-days)
 - [Final Assignment / 加能 侑生子 / Observable](https://observablehq.com/@yukokano/final-assignment)
 - [Final Project / Yua Akimoto / Observable](https://observablehq.com/@ykumanekoy/final-project)
 - [Women In Japan / miyazaki-yuko / Observable](https://observablehq.com/@miyazaki-yuko/women-in-japan)
