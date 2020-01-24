@@ -25,16 +25,17 @@
 ## [Final project: Social Visualization](https://github.com/sugimototatsuo/tmu-2019-network-b/blob/master/Final-project.md)
 
 - [Why are analog records popular in these days? / makoto-watanabe0909 / Observable](https://observablehq.com/@makoto-watanabe0909/why-are-analog-records-popular-in-these-days)
+- [Women In Japan / miyazaki-yuko / Observable](https://observablehq.com/@miyazaki-yuko/women-in-japan)
+- [train incidents / kisa-nkzw113 / Observable](https://observablehq.com/@kisa-nkzw113/train-incidents)
 - [Final Assignment / 加能 侑生子 / Observable](https://observablehq.com/@yukokano/final-assignment)
 - [Final Project / Yua Akimoto / Observable](https://observablehq.com/@ykumanekoy/final-project)
-- [Women In Japan / miyazaki-yuko / Observable](https://observablehq.com/@miyazaki-yuko/women-in-japan)
 - [final project / amanekatano / Observable](https://observablehq.com/@amanekatano/final-project)
 - [final_project / sakataakari / Observable](https://observablehq.com/@sakataakari/final_project)
-- [final_project / kisa-nkzw113 / Observable](https://observablehq.com/@kisa-nkzw113/untitled)
 - [Final-deadline1/24- / ayane-ima / Observable](https://observablehq.com/@ayane-ima/fainal-1-24)
 - [Final Assignment / 原佑一 / Observable](https://observablehq.com/@yu1hara777/final-assignment)
-- [Homework 1/14 / aklp0002 / Observable](https://observablehq.com/@aklp0002/homework-1-14)
+
 - [Peak of Korean boom in Japan / ayafkmt / Observable](https://observablehq.com/@ayafkmt/peak-of-korean-boom-in-japan)
+- [money-graph-of-students / aklp0002 / Observable](https://observablehq.com/@aklp0002/untitled/2)
 
 ## Resources
 
