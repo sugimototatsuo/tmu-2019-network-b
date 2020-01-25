@@ -30,7 +30,7 @@
   - [train incidents / kisa-nkzw113 / Observable](https://observablehq.com/@kisa-nkzw113/train-incidents)
   - [The relationship between Johnny's and the Japanese economy / ayane-ima / Observable](https://observablehq.com/@ayane-ima/the-relationship-between-johnnys-and-the-japanese-economy)
   - [Are you a rare twin? / sakataakari / Observable](https://observablehq.com/@sakataakari/are-you-a-rare-twin)
-  - [Final Assignment / 加能 侑生子 / Observable](https://observablehq.com/@yukokano/final-assignment)
+  - [Why students die by their own hands? / 加能 侑生子 / Observable](https://observablehq.com/@yukokano/why-students-die-by-their-own-hands)
   - [Final Project / Yua Akimoto / Observable](https://observablehq.com/@ykumanekoy/final-project)
   - [final project / amanekatano / Observable](https://observablehq.com/@amanekatano/final-project)
   - [Final Assignment / 原佑一 / Observable](https://observablehq.com/@yu1hara777/final-assignment)
